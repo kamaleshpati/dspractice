@@ -1,3 +1,5 @@
 # Default ignored files
 /.idea/**
 dspractice.iml
+/out
+*.iml
