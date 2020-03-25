@@ -1,0 +1,63 @@
+@@4Rearrange positive and negative numbers in O(n) time and O(1) extra space
+@@6/Move all zeroes to end of array
+@@7/Move all zeroes to end of array | Set-2 (Using single traversal)
+@@10Rearrange array such that even positioned are greater than odd
+@@22Positive elements at even and negative at odd positions (Relative order not maintained)
+===================
+Order Statistics :||
+1 to 9
+===================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSpace optimization using bit manipulations
+@@2Sort a nearly sorted (or K sorted) array
+@@5Merge an array of size n into another array of size m+n
+@@10Count Inversions in an array | Set 1 (Using Merge Sort)
+@@14Union and Intersection of two sorted arrays
+@@19Count the number of possible triangles
+@@24Merge two sorted arrays with O(1) extra space
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSort the given matrix
+@@25Difference Array | Range update query in O(1)
+MO’s Algorithm (Query Square Root Decomposition) | Set 1 (Introduction)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX6Minimum number of jumps to reach end
+
+
+
+
+Write a function to delete a Linked List
+10Write a function to get Nth node in a Linked List
+13
+14
+16
+17
+21
+22
+25
+
+circular
+2
+7
+8
+15
+16
+
+
+1
+2
+3
+4
+XXXXXXXXXX6
+7
+XXXXXXXXXX8
+19
+23
+24
+xxxxxxxxxxxx25
+
+
+
+1
+2
+3
+4
+xxxxxxxxxxxxxxxxxxxx6
+13
+17
