@@ -12,7 +12,6 @@ public class dll1_2_3 {
     }
 
     static Node head;
-
     public static void main(String[] args) {
         Node node = new Node(1);
         head = node;
