@@ -8,4 +8,10 @@ traversal
 construction
 7
 8
+checking
+15
+28
+30
+lcs
+...rmq
 
