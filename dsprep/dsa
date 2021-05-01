@@ -327,7 +327,7 @@ Day25: (Dynamic Programming)
     Maximum sum increasing subsequence
     Matrix Chain Multiplication
 
-Day26: (DP)
+    Day26: (DP)
     Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)
     Coin change
     Subset Sum
