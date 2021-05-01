@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class FractionalKnapsack {
+public class FractionalKnapsackDP {
     private static double getMaxValue(int[] wt, int[] val,
                                       int capacity) {
         ItemValue[] iVal = new ItemValue[wt.length];
